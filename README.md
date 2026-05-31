@@ -102,11 +102,11 @@ streamlit run app.py
 
 ### Home Page
 
-![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/home_page.jpg)
 
 ### Nutrition Analysis
 
-![Nutrition Analysis](screenshots/nutrition_analysis.png)
+![Nutrition Analysis](screenshots/nutrition_analysis.jpg)
 
 ## Contributors
 
