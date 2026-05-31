@@ -102,7 +102,6 @@ streamlit run app.py
 ## Contributors
 
 * Xiaowen Yu
-* University Group Project
 
 ---
 
