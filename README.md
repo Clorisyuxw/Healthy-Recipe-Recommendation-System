@@ -98,6 +98,15 @@ streamlit run app.py
 * Deploy the application as a public web application
 
 ---
+## Application Preview
+
+### Home Page
+
+![Home Page](screenshots/home_page.png)
+
+### Nutrition Analysis
+
+![Nutrition Analysis](screenshots/nutrition_analysis.png)
 
 ## Contributors
 
